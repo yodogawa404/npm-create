@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@yodogawa404/create",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "WTFPL",
   "bin": {
     "yodogawa404_create-npm-project": "./main.js"
