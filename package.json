@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "@yodogawa404/create",
+  "version": "0.0.1",
+  "license": "WTFPL",
+  "bin": {
+    "yodogawa404_create-npm-project": "./main.js"
+  },
+  "repository": {
+    "url": "https://github.com/yodogawa404/npm-create"
+  },
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.3"
+  },
+  "files": [
+    "template",
+    "main.js"
+  ]
+}

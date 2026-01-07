@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "postcss": "^8.5.6",
+    "postcss-load-config": "^6.0.1",
+    "tailwindcss": "^4.1.18",
+    "vite": "^7.3.0"
+  },
+  "dependencies": {
+    "@yodogawa404/font-inter": "^0.0.2",
+    "@yodogawa404/line-seed-jp": "^0.0.4",
+    "@yodogawa404/noto-sans-jp": "^0.0.2"
+  }
+}
