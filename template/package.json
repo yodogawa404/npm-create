@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@yodogawa404/font-inter": "^0.0.4",
-    "@yodogawa404/line-seed-jp": "^0.0.4",
+    "@yodogawa404/line-seed-jp": "^0.0.5",
     "@yodogawa404/noto-sans-jp": "^0.0.2"
   }
 }
